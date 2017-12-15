@@ -1,0 +1,17 @@
+#SYSTEM
+MudName	     CalareyMUD 3.0~
+Highplayers    0
+Highplayertime Wed Jan  1 12:00:00 2002~
+Nameresolving  1
+Saveflags      12285
+Savefreq       1
+PetSave	     1
+IdentTries     0
+Crashguard	0
+MultiLimit	3
+Expbase		50
+Quest		0
+Email 		name@email.com~
+End
+
+#END

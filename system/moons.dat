@@ -1,0 +1,145 @@
+
+#MOON
+Name       halladan~
+Color      green~
+World      Lezaria~
+Phase      3
+Set        18
+Rise       4
+Type       0
+
+#MOON
+Name       thondorron~
+Color      silver~
+World      Lezaria~
+Phase      2
+Set        6
+Rise       7
+Type       0
+
+#MOON
+Name       death~
+Color      pitch black~
+World      Mezulbryst~
+Phase      3
+Set        3
+Rise       20
+Type       0
+
+#MOON
+Name       celestra~
+Color      blue~
+World      Sasherey~
+Phase      4
+Set        5
+Rise       23
+Type       0
+
+#MOON
+Name       war~
+Color      blood red~
+World      Mezulbryst~
+Phase      0
+Set        2
+Rise       5
+Type       0
+
+#MOON
+Name       famine~
+Color      ochre~
+World      Mezulbryst~
+Phase      4
+Set        20
+Rise       4
+Type       0
+
+#MOON
+Name       pestilence~
+Color      sickly green~
+World      Mezulbryst~
+Phase      0
+Set        7
+Rise       16
+Type       0
+
+#MOON
+Name       harvest~
+Color      gold~
+World      Wilderplane~
+Phase      1
+Set        11
+Rise       18
+Type       0
+
+#MOON
+Name       mist~
+Color      white~
+World      Hasaris~
+Phase      2
+Set        10
+Rise       16
+Type       0
+
+#MOON
+Name       khan~
+Color      fiery red~
+World      Corstad~
+Phase      0
+Set        5
+Rise       13
+Type       0
+
+#MOON
+Name       shimmer~
+Color      lavender~
+World      sashery~
+Phase      3
+Set        18
+Rise       20
+Type       0
+
+#MOON
+Name       bondala~
+Color      deep blue~
+World      corstad~
+Phase      3
+Set        17
+Rise       10
+Type       0
+
+#MOON
+Name       regalia~
+Color      purple~
+World      Hasaris~
+Phase      2
+Set        1
+Rise       21
+Type       0
+
+#MOON
+Name       quicksilver~
+Color      silver~
+World      Corstad~
+Phase      4
+Set        17
+Rise       20
+Type       0
+
+#MOON
+Name       thought~
+Color      lavender~
+World      Wilderplane~
+Phase      2
+Set        20
+Rise       19
+Type       0
+
+#MOON
+Name       luna~
+Color      white~
+World      Terra~
+Phase      0
+Set        6
+Rise       19
+Type       0
+#END

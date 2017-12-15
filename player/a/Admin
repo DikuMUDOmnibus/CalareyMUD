@@ -1,0 +1,58 @@
+#PLAYER
+Version      4
+Name         Admin~
+Description  ~
+Sex          1
+Race         29
+Permissions	3071
+Points		4064
+Played       16071696
+Room         1
+Memorized		0 0 0 0 0 0 0 0
+HpManaMove   10 320 3564 64000 895 2500
+Gold         0
+Bank         1293722090
+Exp          200000
+Height          76
+Weight          265
+Act          570430990
+Position     112
+SavingThrows 0 0 0 0 0
+Hitroll      0
+Damroll      0
+Armor        0
+Mentalstate  0
+Password     ~
+Rank         rank~
+Title         Admin title~
+Restore_time 978684969
+WizInvis     1000
+Prompt       &w> %i~
+Pagerlen     23
+Flags        2785792
+PKills       3
+PDeaths      0
+RKills	   250
+RDeaths	   0
+MKills       230
+MDeaths      0
+AttrPerm     100 100 100 100 100 100 100
+AttrMod      0 0 0 0 0 0 0
+Weapons	57 0 0 0 0 0 0 0 0 0 5 0 0 0 5 10 7 9 8 12
+WeaponExp	3723148 0 0 0 0 0 0 0 0 0 0 0 0 0 0 107986 0 0 449 23335
+TalentExp	0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Noncombat	12 0 6 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+NoncombatExp	17463 0 23314 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+Condition    0 -1 -1 126
+Site         127.0.0.1
+Species	immortal~
+Generation	6
+Age	2250
+Shield	0
+Wererace	wolf~
+Speed	100
+Inborn	15
+Channels	~
+End
+
+#END
